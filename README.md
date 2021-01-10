@@ -23,7 +23,7 @@ Included:
 - Clone this repo and build the image by
 
 ```
-git clone https://github.com/kklot/valgrindr
+git clone https://github.com/mrc-ide/valgrindr
 cd valgrindr
 docker build -t valgrindr:latest .
 ```
